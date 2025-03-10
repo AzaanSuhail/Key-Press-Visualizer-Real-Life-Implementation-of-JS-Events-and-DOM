@@ -4,7 +4,7 @@ KeyPress Visualizer is a **JavaScript-based mini-project** that captures and dis
 
 ## 🚀 Live Demo
 
-🔗 [**Check it out on Vercel**]() [Click Here](https://p2-keypress-visulaizer.vercel.app/) .
+🔗 **Check it out on Vercel [Click Here.](https://p2-keypress-visulaizer.vercel.app/)**
 
 ## ✨ Features
 
